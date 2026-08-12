@@ -2,4 +2,4 @@
 
 Add a line from your practice branch below:
 
-- (your note here)
+- Sample note from my first pull request practice
